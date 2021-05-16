@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='contents'/>
+        <page name='01-basics'/>
+        <page name='02-basic-operators'/>
+        <page name='03-strings-characters'/>
+        <page name='04-collection-types'/>
+        <page name='05-control-flow'/>
+        <page name='06-functions'/>
+        <page name='07-closures'/>
+        <page name='08-enumerations'/>
+        <page name='09-structures-and-classes'/>
+        <page name='10-properties'/>
+        <page name='11-methods'/>
+        <page name='12-subscripts-and-keypaths'/>
+        <page name='13-inheritance'/>
+        <page name='14-initialisation'/>
+        <page name='15-deinitialisation'/>
+        <page name='16-optional-chaining'/>
+        <page name='17-error-handling'/>
+        <page name='18-type-casting'/>
+        <page name='19-nested-types'/>
+        <page name='20-extensions'/>
+        <page name='21-protocols'/>
+        <page name='22-generics'/>
+        <page name='23-opaque-types'/>
+        <page name='24-automatic-reference-counting'/>
+        <page name='25-memory-safety'/>
+        <page name='26-access-control'/>
+        <page name='27-advanced-operators'/>
+        <page name='28-result-builders'/>
+        <page name='29-pattern-matching'/>
+        <page name='30-encoding-and-decoding-types'/>
+    </pages>
+</playground>
