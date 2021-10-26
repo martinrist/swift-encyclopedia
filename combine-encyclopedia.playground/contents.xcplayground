@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='02-publishers-and-subscribers'/>
+        <page name='03-transforming-operators'/>
+        <page name='04-filtering-operators'/>
+        <page name='05-combining-operators'/>
+        <page name='06.01-time-manipulation-operators-delay-and-collect'/>
+        <page name='06.02-time-manipulation-operators-debounce-and-throttle'/>
+        <page name='06.03-time-manipulation-operators-timeout'/>
+        <page name='06.04-time-manipulation-operators--measureInterval'/>
+        <page name='07-sequence-operators'/>
+    </pages>
+</playground>
