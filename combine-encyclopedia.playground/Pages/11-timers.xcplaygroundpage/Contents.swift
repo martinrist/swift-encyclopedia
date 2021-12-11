@@ -57,7 +57,6 @@ example(of: "DispatchQueue") {
     source.sink {
         print("DispatchQueue - Timer emitted \($0)")
     }
-        .store(in: &subscriptions)
-}
+        .store(in: &subscriptions)}
 
 //: [Next](@next)
