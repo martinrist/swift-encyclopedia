@@ -13,5 +13,6 @@
         <page name='09-networking'/>
         <page name='10-debugging'/>
         <page name='11-timers'/>
+        <page name='12-key-value-observing'/>
     </pages>
 </playground>
