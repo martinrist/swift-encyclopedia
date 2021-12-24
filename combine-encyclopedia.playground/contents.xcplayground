@@ -15,5 +15,6 @@
         <page name='11-timers'/>
         <page name='12-key-value-observing'/>
         <page name='13-resource-management'/>
+        <page name='16-error-handling'/>
     </pages>
 </playground>
